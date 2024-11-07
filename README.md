@@ -1,11 +1,13 @@
 
-## Marcos here 👋
-Senior Software Developer at [Picpay](https://picpay.com/). 
+**Hi, I'm Marcos Souza! ✌️**
+
+I'm a Back-end Software Engineer from Brazil. I've been creating cool applications for millions of users for 9 years.
 
 
-- 🔭 I’m currently working with Java, Microsservices, AWS, Kafka, OpenTelemetry, Spring Boot, PostgreSQL.
+- 🔭 I’m currently working with Java 17+, Microsservices, AWS, Kafka, OpenTelemetry, Spring Boot, PostgreSQL.
 - 🌱 I’m used to work with Kotlin/JVM, DynamoDB, RabbitMQ, MySql, and more.
 - ⚡ Fun fact: I love working out.
+  
 
 <!--
 <div align="center">
